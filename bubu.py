@@ -1,2 +1,3 @@
-from messagebox import *
-messagebox.showinfo(title='gg')
+from tkinter import *
+okno=Tk()
+okno.geometry('300x300')
